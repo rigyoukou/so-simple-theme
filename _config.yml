@@ -4,7 +4,7 @@
 
 title: Hello
 locale: en_US
-description: Hi,I am lixiaohao. This is my personal website.I will share my words and photos on this site.
+description: Just a websit to share my words and photos and etc...
 logo: site-logo.png
 url: https://rigyoukou.github.io/gh-page/
 
@@ -40,16 +40,16 @@ comments: true
 owner:
   name: lixiaohao
   avatar: michael-rose-photo.jpg
-  email: michael@mademistakes.com
-  disqus-shortname: sosimpletheme
-  twitter: mmistakes
-  facebook: michaelrose
-  github: mmistakes
+  email: lixiaohao0927@gmail.com
+  disqus-shortname: lxh
+  twitter:
+  facebook:
+  github: rigyoukou
   stackexchange:
   linkedin:
-  instagram: mmistakes
+  instagram:
   flickr:
-  tumblr: mademistakes
+  tumblr:
   pinterest:
   weibo:
   google:
