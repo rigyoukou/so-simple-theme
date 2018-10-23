@@ -1,6 +1,6 @@
 # Site wide configuration
 
-remote_theme: mmistakes/so-simple-theme
+#remote_theme: mmistakes/so-simple-theme
 
 title: Hello
 locale: en_US
@@ -15,10 +15,11 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
-#gems:
-#  - jekyll-sitemap
-#  - jekyll-gist
-#  - jekyll-feed
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
 
 kramdown:
   input: GFM
