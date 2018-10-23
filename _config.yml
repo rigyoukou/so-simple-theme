@@ -2,9 +2,9 @@
 
 title: Welcome
 locale: en_US
-description: Hi,I am lixiaohao. This is my personal website.I am will share my words and photos on this site.
+description: Hi,I am lixiaohao. This is my personal website.I will share my words and photos on this site.
 logo: site-logo.png
-url: 
+url:
 
 # Jekyll configuration
 
@@ -33,6 +33,15 @@ include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
 comments: true
+
+plugins:
+#  - jekyll-seo-tag
+#  - jekyll-sitemap
+#  - jekyll-feed
+#  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-sitemap
 
 # Site owner
 owner:
