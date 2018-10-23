@@ -9,7 +9,6 @@ logo: site-logo.png
 url:
 
 # Jekyll configuration
-
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: rouge
